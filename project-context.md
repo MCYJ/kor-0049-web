@@ -20,3 +20,9 @@
 - 2026-09-19: Created public repository `MCYJ/kor-0049-web`, enabled workflow-based GitHub Pages, and completed deployment run `35375904094`.
 - 2026-09-19: Production QA passed for all 34 routes, static assets, custom 404, App Store ID `6807105044`, Google Play package `app.mcyj.examprep.kor0049`, keep-all CSS, and equal Store badge frames.
 - Production: https://mcyj.github.io/kor-0049-web/ko/
+
+## 2026-10-23 — SEO technical improvements
+
+- Added dependency-free post-build SEO validation and enhancement: valid reciprocal language alternates, page-preserving language switching, source-backed Article identities/citations, BreadcrumbList, social text metadata, noindex on the utility 404, and priority for existing above-fold app imagery.
+- Removed unverified structured-data offers where present. Preserved existing official-source verification dates, visible study content, app artwork, keep-all and equal marketplace badge frames.
+- Public repository instructions were treated only as methodology; no external skill, tool, tracking, account connection, or scheduled action was installed.
